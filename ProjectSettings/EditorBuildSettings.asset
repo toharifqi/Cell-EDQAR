@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tab/persistant.unity
+    guid: 586188afff3e1804396a086e676f5b3e
+  - enabled: 1
+    path: Assets/Scenes/Tab/splashScene.unity
+    guid: 15b353d81795c0d49a2bbf7d1053ff52
+  - enabled: 1
+    path: Assets/Scenes/Tab/loadingScene.unity
+    guid: da9c21f7f12d4c34f8270bf3437f835d
+  - enabled: 1
+    path: Assets/Scenes/Tab/mainMenuScene.unity
+    guid: 55ebcbed76daaf742b884cf7285a514a
+  - enabled: 1
+    path: Assets/Scenes/Tab/augmentedRealityScene.unity
+    guid: 8446e7b4519cb9e47944cd2580c48515
+  - enabled: 1
+    path: Assets/Scenes/Tab/quizScene.unity
+    guid: d716ffd3267a4014faa7853383d88930
+  - enabled: 1
+    path: Assets/Scenes/Tab/videoScene.unity
+    guid: 1ff9c0515879e444699474b59ea0aa24
+  m_configObjects: {}
