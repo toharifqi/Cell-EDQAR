@@ -7,11 +7,6 @@ App Screenshots
 ---------------
 
 ![Splash Screen](screenshots/1_splashscreen.png "Splash Screen")
-![Loading Screen](screenshots/2_loadingscreen.png "Loading Screen")
-![Main Menu](screenshots/3_mainmenu.png "Main Menu")
-
-![AR feature](screenshots/4_scankartu.png "the 3D model will popup when you scan the card")
-![AR feature](screenshots/4_scankartu2.png "the 3D model will popup when you scan the card")
 
 Assets Copyright
 ----------------
