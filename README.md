@@ -5,8 +5,11 @@ Cell-EDQAR is my secon Augmented Reality Project. This project is a collaboratio
 
 App Screenshots 
 ---------------
+* App preview: <br />
+<img src="screenshots/1_splashscreen.png" height="400"> <img src="screenshots/2_loadingscreen.png" height="400"> <img src="screenshots/3_mainmenu.png" height="400">
 
-![Splash Screen](screenshots/1_splashscreen.png "Splash Screen")
+* Main Features: <br />
+<img src="screenshots/4_scankartu.png" height="400"> <img src="screenshots/4_scankartu2.png" height="400">
 
 Assets Copyright
 ----------------
